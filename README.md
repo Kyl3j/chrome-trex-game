@@ -1,2 +1,2 @@
 # chrome-trex-game
-a trex game made with javascript
+a simple trex game made with javascript
